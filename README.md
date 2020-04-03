@@ -1,4 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Netflix homepage
+
+<img src="src/assets/screenshot.png" width="100%" alt="netflix" />
 
 ## Available Scripts
 
