@@ -4,7 +4,7 @@ const CategorySection = ({ category, images }) => {
   return (
     <section>
       <p className="title">{category}</p>
-      <div className="d-flex gallery">
+      <div className="gallery">
         {images.map((url, i) => {
           return <img key={i} src={url} alt={category} />;
         })}
